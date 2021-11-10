@@ -1,4 +1,4 @@
-package com.webapp.webApp;
+package com.webapp.bestApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
